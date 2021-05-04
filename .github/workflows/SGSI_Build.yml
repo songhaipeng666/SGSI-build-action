@@ -7,10 +7,10 @@ on:
     types: [started]
     
 env:              
-  ROM_URL: 'https://dl.google.com/developers/android/sc/images/ota/redfin-ota-spp2.210219.008-3d61e529.zip'
-  ZIP_NAME: 'update.zip'
-  OS_TYPE: 'Pixel'
-  BUILD_TYPE: 'ab'
+  ROM_URL: 'http://bigota.d.miui.com/V12.0.1.0.QDGCNXM/miui_MIMIX2S_V12.0.1.0.QDGCNXM_2a0d8a41f2_10.0.zip'
+  ZIP_NAME: 'shp.zip'
+  OS_TYPE: 'MIUI'
+  BUILD_TYPE: 'a-only'
   REPACK_NAME: 'SGSI.zip'
   VERSION: '12'
   upload_WeTransfer: 'true'
